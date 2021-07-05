@@ -1,0 +1,6 @@
+ipywidgets== 7.6.3
+pandas    == 1.2.3
+numpy     == 1.19.2
+matplotlib== 3.3.4
+IPython   == 7.21.0
+watermark == 2.2.0
