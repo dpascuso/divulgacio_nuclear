@@ -1,7 +1,7 @@
 # divulgacio_nuclear
 Activitat de divulgació per l'ICCUB sota l'assignatura de Pràctiques d'Empresa a la UB sota la tutela del Dr. Arnau Rios Huguet.
 
-Pel context teòric necessari per desenvolupar les activitats podeu consultar l'arxiu adjunt a les activitats anomenat 'Instruccions_Divulgacio_Nuclear.pdf' i/ó el següent video:
+Pel context teòric necessari per desenvolupar les activitats podeu consultar l'arxiu adjunt a les activitats anomenat "Instruccions_Divulgacio_Nuclear.pdf" i/ó el següent video:
 
 https://youtu.be/W6IBa97V3nE
 
