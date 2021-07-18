@@ -13,7 +13,7 @@ Link to the binder page of the Maximum Mass activity:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=Neutron_Star_Maximum_Mass.ipynb)
 
-(Un cop carregat el binder aconsello executar en la pestanya "Kernel" un "Restart & Run all" per desenvolupar l'activitat de la forma que ha sigut pensada)
+Un cop carregat el binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada.
 
-![Indicacions](![image](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
+(![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
 
