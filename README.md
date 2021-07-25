@@ -7,6 +7,10 @@ https://youtu.be/W6IBa97V3nE
 
 Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu.
 
+Enllac al Binder de l'Activitat 1 de Model de Gota Líquida:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=MGL_Find_Parameters.ipynb)
+
 Enllaç al Binder de l'Activitat 1 Massa Mínima d'una Estrella de Neutrons:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=Neutron_Star_Minimum_Mass.ipynb)
