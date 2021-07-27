@@ -7,9 +7,13 @@ https://youtu.be/W6IBa97V3nE
 
 Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu.
 
-Enllac al Binder de l'Activitat 1 de Model de Gota Líquida:
+Enllac al Binder de l'Activitat 1 del Model de Gota Líquida, Determina els parametres:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=MGL_Find_Parameters.ipynb)
+
+Enllac al Binder de l'Activitat 2 de Model de Gota Líquida, Prediccions del model:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=MGL_Prediction.ipynb)
 
 Enllaç al Binder de l'Activitat 1 Massa Mínima d'una Estrella de Neutrons:
 
@@ -21,5 +25,5 @@ Enllaç al Binder de l'Activitat 2 Massa Màxima d'una Estrella de Neutrons:
 
 Un cop carregat el Binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada.
 
-(![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
+![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
 
