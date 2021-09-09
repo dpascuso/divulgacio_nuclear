@@ -5,6 +5,10 @@ Pel context teòric necessari per desenvolupar les activitats podeu consultar l'
 
 https://youtu.be/W6IBa97V3nE
 
+Al llarg de les activitats es sol·licitarà respondre algunes qüestions en el següent formulari:
+
+https://forms.office.com/r/rDDD2RRTik
+
 Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu.
 
 Enllac al Binder de l'Activitat 1 del Model de Gota Líquida, Determina els parametres:
