@@ -19,15 +19,15 @@ Enllac al Binder de l'Activitat 2 de Model de Gota Líquida, Prediccions del mod
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=MGL_Prediction.ipynb)
 
-Enllaç al Binder de l'Activitat 1 Massa Mínima d'una Estrella de Neutrons:
+Enllaç al Binder de l'Activitat 3 Massa Mínima d'una Estrella de Neutrons:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=Neutron_Star_Minimum_Mass.ipynb)
 
-Enllaç al Binder de l'Activitat 2 Massa Màxima d'una Estrella de Neutrons:
+Enllaç al Binder de l'Activitat 4 Massa Màxima d'una Estrella de Neutrons:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=Neutron_Star_Maximum_Mass.ipynb)
 
-Un cop carregat el Binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada.
+Un cop carregat el Binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat, això sí la primera vegada que l'executis una instancia pot trigar una mica en carregar.
 
 ![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
 
