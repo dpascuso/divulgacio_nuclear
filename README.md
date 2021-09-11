@@ -9,7 +9,7 @@ Al llarg de les activitats es sol·licitarà respondre algunes qüestions en el 
 
 https://forms.office.com/r/rDDD2RRTik
 
-Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu.
+Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat, això sí la primera vegada que l'executis una instancia pot trigar una mica en carregar.
 
 Enllac al Binder de l'Activitat 1 del Model de Gota Líquida, Determina els parametres:
 
@@ -27,7 +27,7 @@ Enllaç al Binder de l'Activitat 4 Massa Màxima d'una Estrella de Neutrons:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?filepath=Neutron_Star_Maximum_Mass.ipynb)
 
-Un cop carregat el Binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat, això sí la primera vegada que l'executis una instancia pot trigar una mica en carregar.
+Un cop carregat el Binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada.
 
 ![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
 
