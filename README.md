@@ -1,4 +1,15 @@
 # divulgacio_nuclear
+
+Welcome to the "Nuclis Líquids" outreach activity repository!
+
+The atomic nucleus is a fascinating system made up of protons and neutrons, bound together by the strong interaction. Despite the complexity of these systems, there are models that allow us to understand their characteristics based on very simple principles. In this online activity, aimed at high school students, we invite you to explore one of these models - the Liquid Drop Model.
+
+Through interactive simulations and guided exercises, you will learn about the basic properties of atomic nuclei, such as their binding energy, stability, and fission. You will also have the opportunity to compare the predictions of the model with experimental data and to discuss its limitations and extensions.
+
+This repository contains all the resources needed to run the activity, including the source code of the simulations, the instructions for the exercises, and the presentation slides. We hope that you will find this activity both informative and engaging, and that it will inspire you to further explore the fascinating world of nuclear physics.
+
+This activity is in Catalan as it was originally designed for outreach activities in Catalan institutes and events.
+
 Activitat de divulgació per l'ICCUB sota l'assignatura de Pràctiques d'Empresa a la UB sota la tutela del Dr. Arnau Rios Huguet.
 
 Pel context teòric necessari per desenvolupar les activitats podeu consultar l'arxiu adjunt a les activitats anomenat "Instruccions_Divulgacio_Nuclear.pdf" i/ó el següent video:
